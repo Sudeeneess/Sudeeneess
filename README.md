@@ -9,7 +9,6 @@ Junior System Analyst / Backend Developer.
 ### Links
 
 * Telegram: [@Sudeeneess](https://t.me/Sudeeneess)
-* Portfolio & Documentation: [Google Drive Folder](https://drive.google.com/drive/folders/1TxH3iERDYGSgCqJCoWEayKAO2nfzQPRz?usp=sharing)
 * GitHub: [github.com/Sudeeneess](https://github.com/Sudeeneess)
 
 ---
