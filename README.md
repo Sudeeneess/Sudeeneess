@@ -1,11 +1,5 @@
 ### @Sudeeneess
 
-Junior System Analyst / Backend Developer. 
-
-Проектирую архитектуру приложений, формализую требования (от Vision & Scope до ТЗ по ГОСТ 34), строю модели процессов и данных. Обладаю техническим бэкграундом в разработке на Java и сетевой инфраструктуре, что позволяет предметно общаться с разработкой и закрывать пробелы между бизнесом и кодом.
-
----
-
 ### Links
 
 * Telegram: [@Sudeeneess](https://t.me/Sudeeneess)
@@ -15,7 +9,6 @@ Junior System Analyst / Backend Developer.
 
 ### Core Competencies
 
-**System & Business Analysis:**  
 ![SRS / BRD](https://img.shields.io/badge/SRS_/_BRD_/_ГОСТ_34-4A5568?style=flat-square)
 ![User Stories & Use Cases](https://img.shields.io/badge/User_Stories_&_Use_Cases-4A5568?style=flat-square)
 ![BPMN & UML](https://img.shields.io/badge/BPMN_&_UML-2B6CB0?style=flat-square)
@@ -25,7 +18,6 @@ Junior System Analyst / Backend Developer.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/AI_&_Prompt_Engineering-805AD5?style=flat-square)
 
-**Tech Stack & Infrastructure:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
